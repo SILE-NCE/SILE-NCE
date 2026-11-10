@@ -53,7 +53,7 @@
   
  
 <div align="left">
-<img src="https://github.com/user-attachments/assets/ad2d5637-34f6-4dcc-bc03-b4714a8a21cc" alt="harken" width="350" />
+<img src="https://github.com/user-attachments/assets/cdf33bad-58ff-4639-bb2a-7748a32cbc81" alt="harken" width="340" />
 </div>
 
 <div align="left">
