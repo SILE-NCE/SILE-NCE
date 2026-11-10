@@ -24,7 +24,7 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+calm,+and+stay+quiet.;Just+as+father+taught+me.;A+beautiful+view.&font=Archivo+Black&center=true&width=400&height=45&color=F6C504&duration=4500&pause=3500"
 <br>
    <div align="center">
-<img src="https://github.com/user-attachments/assets/9bbc635f-9d37-4fe5-a184-e11afd010ee0" alt="border" width="440" />
+<img src="https://github.com/user-attachments/assets/9bbc635f-9d37-4fe5-a184-e11afd010ee0" alt="border" width="380" />
   </div>
 
 <br>
@@ -48,16 +48,16 @@
 </table>
 </div>
 <div align="left">
-<img src="https://github.com/user-attachments/assets/55462b01-4b25-4493-87f1-0e94868284f3" width="410" />
+<img src="https://github.com/user-attachments/assets/55462b01-4b25-4493-87f1-0e94868284f3" width="360" />
   </div>
   
  
 <div align="left">
-<img src="https://github.com/user-attachments/assets/ad2d5637-34f6-4dcc-bc03-b4714a8a21cc" alt="harken" width="380" />
+<img src="https://github.com/user-attachments/assets/ad2d5637-34f6-4dcc-bc03-b4714a8a21cc" alt="harken" width="350" />
 </div>
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/1446e7fd-9357-42c5-b2b9-1c9bc1d722cf" width="430" />
+<img src="https://github.com/user-attachments/assets/1446e7fd-9357-42c5-b2b9-1c9bc1d722cf" width="380" />
 </div>
 
 
