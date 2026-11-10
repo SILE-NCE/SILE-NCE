@@ -12,7 +12,7 @@
 <td>
 
   <div align="center">
-<img src="https://github.com/user-attachments/assets/bd958656-53b7-4f7a-829e-8b177d76727e" alt="blink1" width="230" />
+<img src="https://github.com/user-attachments/assets/bd958656-53b7-4f7a-829e-8b177d76727e" alt="blink1" width="150" />
   </div>
 
 </td>
