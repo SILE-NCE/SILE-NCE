@@ -21,7 +21,7 @@
   <br>
  
   <div align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Keep+calm,+and+stay+quiet.;Just+as+father+taught+me.;A+beautiful+view.&font=Archivo+Black&center=true&width=400&height=45&color=F6C504&duration=4500&pause=3500"
+ <img src="https://readme-typing-svg.demolab.com/?lines=Keep+calm,+and+stay+quiet.;Just+as+father+taught+me.;A+beautiful+view.&font=Archivo+Black&center=true&width=380&height=45&color=F6C504&duration=4500&pause=3500"
 <br>
    <div align="center">
 <img src="https://github.com/user-attachments/assets/9bbc635f-9d37-4fe5-a184-e11afd010ee0" alt="border" width="380" />
