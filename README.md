@@ -36,23 +36,23 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/05942a65-9872-4f12-825f-d6563464e357" width="320" />
   </div>
  
-<div align="left">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/cdf33bad-58ff-4639-bb2a-7748a32cbc81" alt="harken" width="300" />
 </div>
 
-<div align="left">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/1446e7fd-9357-42c5-b2b9-1c9bc1d722cf" width="320" />
 </div>
 
-<div align="right">
-<img src="https://github.com/user-attachments/assets/95892e86-6ff6-453c-84f6-776c2efd5e46" alt="harken2" width="250" />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/632e144f-709d-4450-9448-8b6f730672be" alt="harken2" width="200" />
 </div>
 
-<div align="right">
+<div align="center">
 <table> 
 <tr>
 <td>
